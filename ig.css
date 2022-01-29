@@ -1,0 +1,40 @@
+.disp{
+      background-color:rgb(238, 90, 36);
+      height: 130px;
+      width: 100%;
+      display: flex;
+      border-bottom: solid 9px rgb(210, 212, 52);
+      position: fixed;
+
+}
+.name{
+    width: 30%;
+    margin-left: 70px;
+    padding-top: 20px;
+}
+.btn{
+    width: 70%;
+    padding-top: 30px;
+
+}
+.bt{
+     background: transparent;
+     padding: 30px;
+     color: #000;
+     margin-right: 30px;
+      font-family: 'Times New Roman';
+}
+.disp hr{
+    border: 0;
+    height: 10px;
+    background: #ccc;
+    margin: 10px 0px;
+    
+    
+}      
+.my{
+     padding: 12px;
+     border-radius: 18px;
+     margin-left: 15px;
+     background-color: red;
+}
